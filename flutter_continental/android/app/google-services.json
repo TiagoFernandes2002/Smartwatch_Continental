@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1089692958400",
+    "firebase_url": "https://teste-db1-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "teste-db1",
+    "storage_bucket": "teste-db1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089692958400:android:3f37c07279c20766e37725",
+        "android_client_info": {
+          "package_name": "com.example.flutter_continental"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089692958400-3nqhd9o444e4cbs9fog63bpehrocvkm0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8ytvzqvajvMEDNLaTQMPWRo9ZO_FXAUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089692958400-3nqhd9o444e4cbs9fog63bpehrocvkm0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
