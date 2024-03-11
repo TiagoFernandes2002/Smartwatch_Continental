@@ -1,1 +1,4 @@
-# Smartwatch_Continental
+# Flutter - Continental
+
+
+A small project about dart & flutter
